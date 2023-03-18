@@ -1,0 +1,31 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This is a website for Ristorante Con Fusion",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server",
+    "scss": "node-sass -o css/ css/"
+  },
+  "author": "Imran Mohammed",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.2",
+    "jquery": "^3.3.1",
+    "node-sass": "^8.0.0",
+    "popper.js": "^1.12.9",
+    "sass": "^1.59.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:\\Users\\imran\\Documents\\git-test1"
+  },
+  "keywords": [
+    "git"
+  ]
+}
